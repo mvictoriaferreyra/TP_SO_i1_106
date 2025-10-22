@@ -4,6 +4,11 @@ Si, tuvimos que crear una rama, usar un pull y un merge
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Si, desde el remoto
 
+c- ¿Si BETA agrega un archivo los demás integrantes lo ven?
+Si.
+
+d- ¿De qué forma se comunicaron ustedes?
+Nos comunicamos mediante chat de voz de Discord.
 
 
 
